@@ -1,0 +1,10 @@
+
+Número: 1234567891234567
+Valor: R$10.0
+Categoria: saúde
+Estabelecimento: Play Easy
+Número: 1234567891234567
+Valor: R$10.0
+Categoria: saúde
+Estabelecimento: mercado
+
